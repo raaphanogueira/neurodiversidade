@@ -41,7 +41,6 @@ function pesquisar() {
         `;
         }
     }
-
     if (!resultados) {
         resultados = "<p>Informação não encontrada</p>"
     }
